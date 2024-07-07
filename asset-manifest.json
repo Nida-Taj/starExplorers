@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/starExplorers/static/css/main.d682df02.css",
+    "main.js": "/starExplorers/static/js/main.8b89bb7b.js",
+    "index.html": "/starExplorers/index.html",
+    "main.d682df02.css.map": "/starExplorers/static/css/main.d682df02.css.map",
+    "main.8b89bb7b.js.map": "/starExplorers/static/js/main.8b89bb7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d682df02.css",
+    "static/js/main.8b89bb7b.js"
+  ]
+}
